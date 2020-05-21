@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.20.10.3:8080/test/MobileFinance.ipa</string>
+					<string>http://172.16.124.40:8080/test/MobileFinance.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://172.20.10.3:8080/test/icon-address.png</string>
+					<string>http://172.16.124.40:8080/test/icon-address.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://172.20.10.3:8080/test/icon-address.png</string>
+					<string>http://172.16.124.40:8080/test/icon-address.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
